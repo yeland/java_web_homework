@@ -1,8 +1,8 @@
 package com.weilinxiao.homework.controller;
 
 
-import com.weilinxiao.homework.Dao.StudentRepository;
-import com.weilinxiao.homework.tool.Student;
+import com.weilinxiao.homework.dao.StudentRepository;
+import com.weilinxiao.homework.model.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

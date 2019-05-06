@@ -1,4 +1,4 @@
-package com.weilinxiao.homework.tool;
+package com.weilinxiao.homework.model;
 
 
 import javax.persistence.Entity;
